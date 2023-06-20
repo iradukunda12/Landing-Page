@@ -6,7 +6,9 @@
 
 .container {
     width: 100%;
-    /* margin: 0 auto; */
+    height: 400px;
+    margin: 0 auto;
+    background-color: #1f2937;
    
    
    
@@ -16,9 +18,22 @@ h1 {
     font-size: 24px;
     font-family: 'Roboto',sans-serif;
 }
-.header {
-   background-color: #1f2937;
-   height: 390px;
+.main-header {
    padding: 15px 100px;
-   
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
 }
+
+.links {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0 10px;
+}
+.nav-header {
+  gap: 20;
+}
+/* .navigation-bar {
+    display: flex;
+} */
