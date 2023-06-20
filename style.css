@@ -37,3 +37,37 @@ h1 {
 /* .navigation-bar {
     display: flex;
 } */
+
+main {
+    width: 430px;
+    height: 200px;
+    margin: 0;
+    border: 4px solid white;
+    padding-left: 95px;
+    padding-top: 55px;
+    
+}
+.hero-text {
+    color: #f9f9f9;
+    font-size: 48px;
+    font-family: 'roboto', sans-serif;
+    font-weight: 700;
+    line-height: 55px;
+}
+.subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 10px;
+}
+.signup-button {
+    background-color: #3882f6;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    font-weight: 500;
+    color: #e5e7eb;
+    padding: 7px 28px;
+    border-style: none;
+    border-radius: 6px;
+}
+
