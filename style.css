@@ -113,10 +113,11 @@ main {
     gap: 40px;
     justify-content: center;
     padding: 30px 0;
+    position: relative;
 }
 .card-text {
     position: absolute;
-    top: 670px;
+    top: 188px;
     left: 242px;
     width: 175px;
     line-height: 18px;
@@ -128,7 +129,7 @@ main {
 
 .card-text1 {
     position: absolute;
-    top: 670px;
+    top: 188px;
     left: 443px;
     width: 175px;
     line-height: 18px;
@@ -139,7 +140,7 @@ main {
 }
 .card-text2 {
     position: absolute;
-    top: 670px;
+    top: 188px;
     left: 643px;
     width: 175px;
     line-height: 18px;
@@ -151,7 +152,7 @@ main {
 
 .card-text3 {
     position: absolute;
-    top: 670px;
+    top: 188px;
     left: 845px;
     width: 175px;
     line-height: 18px;
